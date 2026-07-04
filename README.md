@@ -69,5 +69,5 @@ Resource Allocation: Tracking "Pending Duration" (253 hrs) helps management fore
 Risk Mitigation: The "Not Completed" tracking mechanism prevents critical compliance gaps by flagging overdue tasks past the 60-day mark.
 
 🖼️ Screenshots & Demos
-![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
+![Dashboard Preview](https://github.com/priyankaaagarwal-DATAANALYST/HR-ANALYSTCS/blob/main/training%20dashoard.png)
 
